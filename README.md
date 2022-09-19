@@ -1,6 +1,6 @@
-#Tumul Ranjan
 
-## Hi there 👋
+
+## Hi there , I am Tumul Ranjan👋
 
 I am a Deep Learning Enthusiast and Web developer
 
