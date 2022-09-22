@@ -2,7 +2,7 @@
 
 ## Hi there , I am Tumul Ranjan👋
 
-I am a Deep Learning Enthusiast and Web developer
+I am a Deep Learning Enthusiast and Web developer. I am exploring App development and Apps based on Flask and React.
 
 Currently a 2nd year Undergrad student pursuing Electronics Engineering at Thapar Institute of Engineering and Technology, India
 
