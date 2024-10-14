@@ -4,7 +4,7 @@
 
 I am a Deep Learning Researcher and Enthusiast as well as a Web developer.
 
-Currently a Pre-Final year Undergrad student pursuing Electronics Engineering at Thapar Institute of Engineering and Technology, India
+Currently a Final year Undergrad student pursuing Electronics Engineering at Thapar Institute of Engineering and Technology, India
 
 
 
